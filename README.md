@@ -4,11 +4,11 @@
 
 ## Overview
 
-You are tasked with creating a blog post page using the [provided solution](./DeveloperAssessment.sln), which is a slightly modified version of the default ASP.NET Core MVC template targeting .NET 8.
+You are tasked with creating a blog post page using the [provided solution](./DeveloperAssessment.sln), which is a slightly modified version of the default ASP.NET Core MVC template targeting .NET 10.
 
 ## Prerequisites
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
 
 ## Assessments
 
