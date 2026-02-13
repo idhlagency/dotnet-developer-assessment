@@ -6,6 +6,8 @@
 
 You will create a blog post page using ASP.NET MVC. The focus is on demonstrating your fundamental skills in MVC, data handling, and basic front-end development.
 
+We'd expect this to take around **3 hours**, but there's no time limit — work at your own pace and don't feel pressured to rush or over-polish.
+
 ## Objectives
 
 1. ASP.NET MVC skills
@@ -18,9 +20,9 @@ You will create a blog post page using ASP.NET MVC. The focus is on demonstratin
 
 ### Exercise 1
 
-Develop an MVC view that displays the blog post content, utilising the layout provided in the [template.html](./assets/template.html) file.
+Develop an MVC view that displays the blog post content, utilising the layout provided in the [template.html](../assets/template.html) file.
 
-Move the [Blog-Posts.json](./assets/Blog-Posts.json) file to an appropriate location in the project for reading and writing data. Replace the section marked `<!--Blog post content-->` with the content from this JSON file.
+Move the [Blog-Posts.json](../assets/Blog-Posts.json) file to an appropriate location in the project for reading and writing data. Replace the section marked `<!--Blog post content-->` with the content from this JSON file.
 
 Load a specific blog post from the JSON file based on its ID, employing MVC routing and the appropriate controller actions. For example: /blog/1/, /blog/2/, /blog/\<ID\>/, etc.
 
