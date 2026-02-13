@@ -399,3 +399,4 @@ FodyWeavers.xsd
 
 # AI tooling (local only, not for candidates)
 CLAUDE.md
+.claude/
